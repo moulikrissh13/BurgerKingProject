@@ -11,7 +11,7 @@ import objectRepository.Homepage;
 
 
 @Listeners(genericUtility.ListenerImpementation.class)
-public class NutritioniInfo extends BaseConfig{
+public class NutritioniInfo_Test extends BaseConfig{
 	
 	
 	@Test

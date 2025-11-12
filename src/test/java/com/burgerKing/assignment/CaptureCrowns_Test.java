@@ -19,7 +19,7 @@ import objectRepository.Homepage;
 
 
 @Listeners(genericUtility.ListenerImpementation.class)
-public class CaptureCrowns extends BaseConfig{
+public class CaptureCrowns_Test extends BaseConfig{
 
 
 	@Test
