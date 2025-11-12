@@ -6,8 +6,8 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.burgerKing.assignment.CaptureCrowns"/>
-      <class name="com.burgerKing.assignment.NutritioniInfo"/>
+      <class name="com.burgerKing.assignment.CaptureCrowns_Test"/>
+      <class name="com.burgerKing.assignment.NutritioniInfo_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
